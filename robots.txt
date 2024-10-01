@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zqcrswm.github.io/sitemap.html.gz
+Sitemap: https://zqcrswm.github.io/app/sitemap.html.gz
+Sitemap: https://zqcrswm.github.io/assets/sitemap.html.gz
+Sitemap: https://zqcrswm.github.io/css/sitemap.html.gz
+Sitemap: https://zqcrswm.github.io/data/sitemap.html.gz
+Sitemap: https://zqcrswm.github.io/includes/sitemap.html.gz
+Sitemap: https://zqcrswm.github.io/item/sitemap.html.gz
+Sitemap: https://zqcrswm.github.io/src/sitemap.html.gz
